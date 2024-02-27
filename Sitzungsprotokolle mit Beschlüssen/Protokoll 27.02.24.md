@@ -24,7 +24,7 @@
   überlegen was für Funktionen er benötigt, unrealistisch?)
   **Beschluss: 16:15 Start, anschliessend in ExWi internes Meeting für Planning Game. Leitung: Manuel**
 * [ ] Präsentation nächster Mittwoch
-  ****
+  **Beschluss: Laura**
 * [ ] Einhaltung akademischer Viertelstunde
   **Beschluss: Angenommen.**
 * [ ] Meeting nächste Woche
