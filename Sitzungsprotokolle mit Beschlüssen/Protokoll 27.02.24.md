@@ -22,11 +22,14 @@
   **Beschluss: Bis Freitag ein Tutorial (>10 Minuten) zu React schauen.**
 * [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
   überlegen was für Funktionen er benötigt, unrealistisch?)
-  **Beschluss: 16:15 Start, anschliessend in ExWi internes Meeting für Planning Game.**
-* [ ] Anderes: Präsentation nächster Mittwoch
-* [ ] Anderes: Einhaltung akademischer Viertelstunde
+  **Beschluss: 16:15 Start, anschliessend in ExWi internes Meeting für Planning Game. Leitung: Manuel**
+* [ ] Präsentation nächster Mittwoch
+  ****
+* [ ] Einhaltung akademischer Viertelstunde
   **Beschluss: Angenommen.**
 * [ ] Meeting nächste Woche
-  **Beschluss: Dienstag, start um 16:00 Uhr, Engehalde.**
+  **Beschluss: Dienstag, start um 16:00 Uhr, Engehalde. Leitung: Laura**
 * [ ] Abgabe Deliverables
   **Beschluss: Wöchentlich Montag Abend**
+* [ ] Eigener Assistentenchat
+  **Beschluss: Angenommen, soll eingerichtet werden.**
