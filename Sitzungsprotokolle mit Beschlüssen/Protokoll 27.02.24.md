@@ -24,3 +24,9 @@
   überlegen was für Funktionen er benötigt, unrealistisch?)
   **Beschluss: 16:00 Start, anschliessend in ExWi internes Meeting für Planning Game.**
 * [ ] Anderes: Präsentation nächster Mittwoch
+* [ ] Anderes: Einhaltung akademischer Viertelstunde
+  **Beschluss: Angenommen.**
+* [ ] Meeting nächste Woche
+  **Beschluss: Dienstag, start um 16:00 Uhr, Engehalde.**
+* [ ] Abgabe Deliverables
+  **Beschluss: Wöchentlich Montag Abend**
