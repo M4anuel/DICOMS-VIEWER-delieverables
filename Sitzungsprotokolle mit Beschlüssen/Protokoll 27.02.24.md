@@ -11,13 +11,13 @@
   Hobbies, was man diesem Projekt beitragen kann
   **Beschluss: Abgeschlossen**
 * [ ] Abstimmung über Hierarchische Struktur -> "Projektleiter"
-  **Beschluss:**
+  **Beschluss: Postponed**
 * [ ] Abstimmung zu zwei Spezialistengruppen
-  **Beschluss:**
+  **Beschluss: Postponed**
 * [ ] Blindes Feedback über Sicherheit im Programmieren
   Feedback zum Erstellen der Gruppen verwenden (Projektleiter)
 * [ ] Erstellung der Gruppen (direkt in README.md eintragen!)
-  **Beschluss:**
+  **Beschluss: Postponed**
 * [ ] Verteilung erster Aufgabe
   **Beschluss:**
 * [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
