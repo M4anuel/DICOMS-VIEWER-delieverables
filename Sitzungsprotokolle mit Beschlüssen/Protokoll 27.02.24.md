@@ -22,4 +22,5 @@
   **Beschluss: Bis Freitag ein Tutorial (>10 Minuten) zu React schauen.**
 * [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
   überlegen was für Funktionen er benötigt, unrealistisch?)
+  **Beschluss: 16:00 Start, anschliessend in ExWi internes Meeting für Planning Game.**
 * [ ] Anderes: Präsentation nächster Mittwoch
