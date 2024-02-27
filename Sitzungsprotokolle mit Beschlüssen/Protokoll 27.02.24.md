@@ -20,4 +20,6 @@
   **Beschluss:**
 * [ ] Verteilung erster Aufgabe
   **Beschluss:**
+* [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
+  überlegen was für Funktionen er benötigt, unrealistisch?)
 * [ ] Anderes:
