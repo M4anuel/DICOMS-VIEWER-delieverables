@@ -19,7 +19,7 @@
 * [ ] Erstellung der Gruppen (direkt in README.md eintragen!)
   **Beschluss: Postponed**
 * [ ] Verteilung erster Aufgabe
-  **Beschluss:**
+  **Beschluss: Bis Freitag ein Tutorial (>10 Minuten) zu React schauen.**
 * [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
   überlegen was für Funktionen er benötigt, unrealistisch?)
 * [ ] Anderes: Präsentation nächster Mittwoch
