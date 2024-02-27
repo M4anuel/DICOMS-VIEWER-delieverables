@@ -9,7 +9,7 @@
 | Master-Tracker             | Michael  |
 | Head of Protocol           | Roger    |
 | Key Account Management     | Manuel   |
-| placeholder role           | Laura    |
+| Head of Documentation      | Laura    |
 
 ## Teams:
 
