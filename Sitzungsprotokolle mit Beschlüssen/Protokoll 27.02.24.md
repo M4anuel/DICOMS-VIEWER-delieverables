@@ -9,7 +9,7 @@
 
 * [ ] Vorstellen: Name, (Alter), Studienfächer, kurz etwäs über sich selbst,
   Hobbies, was man diesem Projekt beitragen kann
-  **Beschluss:**
+  **Beschluss: Abgeschlossen**
 * [ ] Abstimmung über Hierarchische Struktur -> "Projektleiter"
   **Beschluss:**
 * [ ] Abstimmung zu zwei Spezialistengruppen
@@ -22,4 +22,4 @@
   **Beschluss:**
 * [ ] Meeting Freitag besprechen (Planning game, Kunde muss bis Freitag
   überlegen was für Funktionen er benötigt, unrealistisch?)
-* [ ] Anderes:
+* [ ] Anderes: Präsentation nächster Mittwoch
