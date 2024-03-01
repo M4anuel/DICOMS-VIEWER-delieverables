@@ -3,7 +3,7 @@
 | [01.03.24: 15:00-16:00]               | Ort: [Insel, Neurocenter Floor C] |
 | ---------------------------------- | -------------------------------- |
 | Teilnehmer:<br />[Teilnehmerliste] | Entschuldigt:<br />[Manuel, Leo] |
-| Protokollführung:[Roger]          | Sitzungsleitung:[] |
+| Protokollführung:[Roger]          | Sitzungsleitung:[Laura] |
 
 ## Traktandenliste:
 
