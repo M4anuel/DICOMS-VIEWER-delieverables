@@ -1,6 +1,6 @@
 # Protokoll: [Bestandsaufnahme & Präsentation Requirements]
 
-| [05.03.23/16:15]                   | Ort: [ExWi Gebäude]              |
+| [05.03.23/16:00]                   | Ort: [Engelhalde]              |
 | ---------------------------------- | -------------------------------- |
 | Teilnehmer:<br />[Teilnehmerliste] | Entschuldigt:<br />[]            |
 | Protokollführung:[Roger]          | Sitzungsleitung:[Laura] |
