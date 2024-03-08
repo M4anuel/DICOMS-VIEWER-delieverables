@@ -5,11 +5,10 @@
 | Role                       | Name     |
 | -------------------------- | -------- |
 | Quality Evangelist         | Leo      |
-| Chief Delieverable Officer | Kapinash |
+| Chief Delieverable Officer | Laura    |
 | Master-Tracker             | Michael  |
 | Head of Protocol           | Roger    |
 | Key Account Management     | Manuel   |
-| Head of Documentation      | Laura    |
 
 ## Teams:
 
