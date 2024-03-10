@@ -5,14 +5,18 @@
 Unit Tests werden durchgeführt. Es ist zurzeit noch unklar, welche Units existieren
 werden. Eventuell werden sie sich aus den folgenden Klassen und (deren Funktionen) zusammensetzen:
 
-| App/DICOM Viewer |               |
-| ---------------- | ------------- |
-| Image Renderer   | Layer Manager |
-| Zoom Renderer    | Image Layer   |
-| Scroll Renderer  | Paint Layer   |
-| Measure Renderer | Measure Layer |
-| Paint Renderer   | Control Panel |
-| Render Window    |               |
+**App/DICOM Viewer**
+* Image Renderer
+  * Zoom Renderer
+  * Scroll Renderer
+  * Measure Renderer
+  * Paint Renderer
+  * Render Window
+* Layer Manager
+  * Image Layer
+  * Paint Layer
+  * Measure Layer
+  * Control Panel
 
 Wir werden versuchen möglichst viele Units automatisiert und isoliert voneinender zu testen und den Fokus auf das korrekte Rendern und das korrekte Ausführen der User Interaction in den Zoom-, Scroll-, Measure- und Paint Klassen legen.
 
@@ -21,7 +25,7 @@ Konkrete Vorschläge und Bemerkungen zu einzelnen Tests:
 - Die Measure-Funktion könnte Stichprobenartig getestet werden:
   Dazu könnten zuerst mehrere Paare von Koordinaten mit bekannter Distanz definiert werden. Die bekannte Distanz würde anschliessend mit der vom Programm berechneten und im Webbrowser angezeigten Distanz verglichen werden. Die Differenz sollte unter einem bestimmten kleinen Toleranzwert liegen.
 
-- Das Testen der Zoom- und Scroll-Funktionen könnte sich als schwierig erweisen, da wir dazu unteranderem den "Grad" des Zoomens, beziehungsweise des Cursers bestimmen müssten. Dennoch werden wir versuchen zumindest einzelne Sub-Units zu testen und den Rest manuel mittels Augenmass testen.
+- Das Testen der Zoom- und Scroll-Funktionen könnte sich als schwierig erweisen, da wir dazu unteranderem den "Grad" des Zoomens, beziehungsweise des Cursors bestimmen müssten. Dennoch werden wir versuchen zumindest einzelne Sub-Units zu testen und den Rest manuel mittels Augenmass testen.
 
 - Das Painting kann getestet werden, indem nach einem Befehl zum Einfärben die gewählten Pixel überüprüft werden. Falls mehrere Farben möglich sind, würde jede Farbe einzeln getestet.
 
