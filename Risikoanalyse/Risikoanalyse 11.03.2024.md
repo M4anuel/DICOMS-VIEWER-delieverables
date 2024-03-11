@@ -1,8 +1,8 @@
 # Risikoanalyse 11.03.2024
 
-| Risiko Beschreibung                                                                                  | Eintritts-wahrscheinlichkeit | Gewichtung                                   | Gegenmassnahme                                                            |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------- | ------------------------------------------------------------------------- |
-| Integration des React Components in das vorgegebene System bis zum Planning Game 2 nicht erfolgreich | Klein                        | Niedrig (für erste Iteration nicht relevant) | Strategische Abstimmung mit Kunden/Systemverantwortlichen am 14.3. planen |
+| Risiko Beschreibung                                                                                  | Eintritts-wahrscheinlichkeit | Gewichtung                                                                                                  | Gegenmassnahme                                                            |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Integration des React Components in das vorgegebene System bis zum Planning Game 2 nicht erfolgreich | Klein                        | Niedrig (für erste Iteration nicht relevant, könnte jedoch den Fortschritt der zweiten Iteration verzögern) | Strategische Abstimmung mit Kunden/Systemverantwortlichen am 14.3. planen |
 
 **Bewertungsraster:**
 
