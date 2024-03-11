@@ -1,4 +1,4 @@
-# Arbeitsplan 1
+# Arbeitsplan
 
 | TaskID   | Beschreibung                                                               | Zuständigkeit | Deadline | Abhängigkeit     | Status                  |
 | -------- | -------------------------------------------------------------------------- | ------------- | -------- | ---------------- | ----------------------- |
