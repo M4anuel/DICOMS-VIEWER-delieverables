@@ -18,3 +18,13 @@
 - [ ] Sonstiges
 
 **Beschlüsse:**
+  * **Waldo fragen wegen VTK.js: Gründe für Nutzung von VTK.js, Alternativen, zusätzliche Ressourcen**
+  * **Leitung nächste Sitzung: Manuel**
+  * **Präsentationen:**
+    * **Demo: Manuel**
+    * **Tech und Architektur: Michael**
+    * **Qualitätsicherung, Testing, Usability: Roger**
+    
+
+**Terminbeschlüsse**
+  * **Donnerstag, 14.03. 11:30 - 13:00 gemeinsame Planung der Tasks/Stories in vonRoll**
