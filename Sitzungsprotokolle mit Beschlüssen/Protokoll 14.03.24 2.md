@@ -1,6 +1,6 @@
 # Protokoll: [Planning Game 2]
 
-| [14.03/10:00-11:00]                    | Ort: [Insel]                       |
+| [14.03/11:30-13:00]                    | Ort: [vonRoll]                       |
 | ---------------------------------- | -------------------------------- |
 | Teilnehmer:<br />[Manuel, Laura, Leo, Michael, Roger] | Entschuldigt:<br />[]            |
 | Protokollführung:[Roger]          | Sitzungsleitung:[-] |
