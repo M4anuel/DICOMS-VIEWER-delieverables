@@ -8,20 +8,27 @@
 **Beschlüsse:**
 * **Tasks:**
   * Viewer component set up
+    * **Verantwortlich: Michael**
   * Integration von Viewer in Dashboard
     * Routing
+    * **Verantwortlich: Michael**
   * Load Data from backend API
+    * **Verantwortlich: Leo**
   * Convert 1D Array into 2D Matrix
+    * **Verantwortlich: Manuel**
   * Display Image
     * Lock camera
-  * Responsify Component 
+    * **Verantwortlich: Laura, Manuel**
+  * Responsify Component
+    * **Verantwortlich: Roger, Michael** 
   * Menu
+    * **Verantwortlich: Laura**
     
 * **Tests:**
   * **Unit:**
     * Load Data from Backend
     * Convert 1D to 2D
-  * **Manual:**
+  * **Manuell:**
     * Display Image
     * Responsify Component
       
@@ -29,4 +36,6 @@
   * Deliverables
     * Bericht
     * Arbeitsplan
+      * **Verantwortlich: Laura** 
   * Präsentation Demo 1
+    * **Verantwortlich: Manuel**
