@@ -15,3 +15,5 @@
 - requirements of task met
 - code tested
 - branch merged
+
+## [Arbeitsplan](https://trello.com/b/atzUnddg/pse-dicom-viewer)
