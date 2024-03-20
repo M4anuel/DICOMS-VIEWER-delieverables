@@ -13,16 +13,3 @@
 | T7     | Präsentation Analyse 1. Iteration vorbereiten und halten     | Leo           | 13.03.24 | T6           | done                    |
 
 **tbd**: to be defined
-
-## Erwartete kommende Tasks
-
-| TaskID | Beschreibung                                                               | Zuständigkeit | Deadline | Abhängigkeit | Status      |
-| ------ | -------------------------------------------------------------------------- | ------------- | -------- | ------------ | ----------- |
-| T24    | Code für Display von 3D Bild schreiben                                     | tbd           | tbd      | tbd          | not started |
-| T25    | Zoomen implementieren                                                      | tbd           | tbd      | tbd          | not started |
-| T26    | Scrollen implementieren                                                    | tbd           | tbd      | tbd          | not started |
-| T27    | Neuen Branch erstellen und Einfärben implementieren                        | tbd           | tbd      | T12, T14     | not started |
-| T30    | Neuen Branch erstellen und Messen implementieren                           | tbd           | tbd      | T12, T14     | not started |
-| T31    | Software testen                                                            | tbd           | 30.04.24 | tbd          | not started |
-| T32    | Dokumentation fertig schreiben                                             | tbd           | 30.04.24 | T12-T19      | not started |
-| T33    | Utility Test durchführen, besprechen und Feedback umsetzen                 | Alle/tbd      | 30.04.24 | tbd          | not started |
