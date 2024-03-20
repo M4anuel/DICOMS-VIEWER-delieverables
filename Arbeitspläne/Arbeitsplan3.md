@@ -6,9 +6,3 @@
 | T28    | Präsentation Technologie und Architektur vorbereiten und halten | Michael       | 17.04.24 | tbd          | not started |
 
 **tbd**: to be defined
-
-## Erwartete kommende Tasks
-- Display von 3D Bild implementieren 
-- Zoomen implementieren
-- Scrollen implementieren
-- Einfärben implementieren
