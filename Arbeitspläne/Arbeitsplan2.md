@@ -13,3 +13,5 @@
 | T19    | "Toolbar"/menu (without functionality)                                     | Laura          | 27.03.24 | T9, T13      | not started |
 | T21    | Demo 1 vorbereiten und halten                                              | Manuel         | 27.03.24 | T13-18       | not started |
 | T22    | Testkonzept V2 schreiben                                                   | Laura, Roger   | 27.03.24 | -            | not started |
+
+**tbd**: to be defined
