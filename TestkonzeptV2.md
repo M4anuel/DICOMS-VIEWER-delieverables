@@ -8,18 +8,18 @@ Unit Tests werden durchgeführt. Die Software wird sich aus den folgenden Kompon
 
 - ImageViewerContainer
   - ImageViewerContainer.js
-  - ImageViewerContainerTest.js
+  - ImageViewerContainer.Test.js
   - PaintWidget
     - PaintWidget.js
-    - PaintWidgetTest.js
+    - PaintWidget.Test.js
     - index.js
   - MeasureWidget
     - MeasureWidget.js
-    - MeasureWidgetTest.js
+    - MeasureWidget.Test.js
     - index.js
   - Toolbar
     - Toolbar.js
-    - ToolbarTest.js
+    - Toolbar.Test.js
     - index.js
 
 Wir definieren in unserem System eine Unit als eine Methode. Methoden, also Units, werden einzeln und unabhängig von anderen Methoden getestet mit erwartetem Output und tatsächlichem Output. Dabei testen wir nicht jede Methode der oben genannten Komponennten, sondern wir fokussieren uns auf Methoden, welche eine gewisse Komplexität haben. Methoden welche nur einen einzelnen Testfall darstellen, werden weggelassen. Für alle anderen Units werden mindestens drei Testfälle geschrieben.
@@ -71,12 +71,12 @@ Konkrete Vorschläge und Bemerkungen zu einzelnen Tests:
 ## GUI Test
 
 Das User Interface wird manuell getestet, es sei denn, eine Funktion wurde bereits als Teil eines anderen Tests automatisch getestet.
-Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden. Von simulierten Benutzereingaben, mit zum Beispiel Selenium, wird abgesehen.
+Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden. Von simulierten Benutzereingaben, zum Beispiel mit Selenium, wird abgesehen.
 
 ## Stress-Test
 
 Die einzige potentiell hohe Belastung, der die Software standhalten muss, ist
-das Laden und Darstellen einer grossen, fein aufgelösten DICOM Datei. Dabei haben wir keine Anforderungen an Performance, sondern das Programm darf nicht abstürzen.
+das Laden und Darstellen einer grossen, fein aufgelösten DICOM Datei. Dabei haben wir keine Anforderungen an Performance. Das Programm darf lediglich nicht abstürzen.
 
 Dies kann automatisiert getestet werden, indem eine sehr grosse Datei automatisch
 erzeugt wird (falls noch nicht vorhanden) und dem Datenset hinzugefügt wird. Die
