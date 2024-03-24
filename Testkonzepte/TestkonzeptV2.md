@@ -25,13 +25,13 @@ Unit Tests werden durchgeführt. Die Software wird sich aus den folgenden Kompon
 Wir definieren in unserem System eine Unit als eine Methode. Methoden, also Units, werden einzeln und unabhängig von anderen Methoden getestet mit erwartetem Output und tatsächlichem Output. Dabei testen wir nicht jede Methode der oben genannten Komponennten, sondern wir fokussieren uns auf Methoden, welche eine gewisse Komplexität haben. Methoden welche nur einen einzelnen Testfall darstellen, werden weggelassen. Für alle anderen Units werden mindestens drei Testfälle geschrieben.
 
 Konkreter Vorschlag für Unittest der Measure Methode:
-  - Dazu werden zuerst mehrere Paare von Koordinaten mit bekannter Distanz definiert. Die bekannte Distanz kann anschliessend mit der vom Programm berechneten und im Webbrowser angezeigten Distanz verglichen werden. Die Differenz sollte unter einem bestimmten kleinen Toleranzwert liegen. 
+  - Mehrere Paare von Koordinaten mit bekannter Distanz werden zuerst definiert. Die bekannte Distanz kann anschliessend mit der vom Programm berechneten und im Webbrowser angezeigten Distanz verglichen werden. Die Differenz sollte unter einem bestimmten kleinen Toleranzwert liegen. 
 
 Die automatisierten Unit- und Integrationstests für die React Komponenten werden mit dem JavaScript framework **Jest** und der **React Testing Library (RTL)** geschrieben. Eine grobe Anleitung dazu befindet sich in folgendem Dokument unter "Instruction": https://docs.google.com/document/d/1n-SOJRLCr3bpJybRZD7EiFwNpCR-hVYf_OhLXEaf_Hk/edit?usp=sharing
 
 ## Integrationstest
 
-Die folgenden Use Cases existieren und werden getestet: In jedem Usecase werden die einzelnen Units getestet, dazu kommen noch folgende Tests:
+Die folgenden Use Cases existieren und werden getestet. In jedem Usecase werden die einzelnen Units getestet, dazu kommen noch folgende Integrationstests:
 
 - Starten des Programms/Startseite
 - DICOM Datei auswählen/laden
@@ -46,6 +46,8 @@ Die folgenden Use Cases existieren und werden getestet: In jedem Usecase werden 
   - für korrekte Zusammenarbeit vom Cache, Renderer und User-Interaction. 
 - Measuring
   - für korrekte Zusammenarbeit vom Measure-Widget, Renderer und User-Interaction.
+- Paarweise Kombination von Zooming, Scrolling, Painting und Measuring
+  - die korrekte Zusammenarbeit der Funktionen wird paarweise manuell getestet.
 - Schliessen des Programms
 
 Konkrete Vorschläge und Bemerkungen zu einzelnen Tests:
@@ -71,7 +73,7 @@ Konkrete Vorschläge und Bemerkungen zu einzelnen Tests:
 ## GUI Test
 
 Das User Interface wird manuell getestet, es sei denn, eine Funktion wurde bereits als Teil eines anderen Tests automatisch getestet.
-Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden. Von simulierten Benutzereingaben, zum Beispiel mit Selenium, wird abgesehen.
+Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden. (Von simulierten Benutzereingaben, zum Beispiel mit Selenium, wird abgesehen.)
 
 ## Stress-Test
 
