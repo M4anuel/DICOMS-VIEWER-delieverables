@@ -25,7 +25,7 @@ Unit Tests werden durchgeführt. Die Software wird sich aus den folgenden Kompon
 Wir definieren in unserem System eine Unit als eine Methode. Methoden, also Units, werden einzeln und unabhängig von anderen Methoden getestet mit erwartetem Output und tatsächlichem Output. Dabei testen wir nicht jede Methode der oben genannten Komponennten, sondern wir fokussieren uns auf Methoden, welche eine gewisse Komplexität haben. Methoden welche nur einen einzelnen Testfall darstellen, werden weggelassen. Für alle anderen Units werden mindestens drei Testfälle geschrieben.
 
 Konkreter Vorschlag für Unittest der Measure Methode:
-  Dazu werden zuerst mehrere Paare von Koordinaten mit bekannter Distanz definiert. Die bekannte Distanz kann anschliessend mit der vom Programm berechneten und im Webbrowser angezeigten Distanz verglichen werden. Die Differenz sollte unter einem bestimmten kleinen Toleranzwert liegen. 
+  - Dazu werden zuerst mehrere Paare von Koordinaten mit bekannter Distanz definiert. Die bekannte Distanz kann anschliessend mit der vom Programm berechneten und im Webbrowser angezeigten Distanz verglichen werden. Die Differenz sollte unter einem bestimmten kleinen Toleranzwert liegen. 
 
 Die automatisierten Unit- und Integrationstests für die React Komponenten werden mit dem JavaScript framework **Jest** und der **React Testing Library (RTL)** geschrieben. Eine grobe Anleitung dazu befindet sich in folgendem Dokument unter "Instruction": https://docs.google.com/document/d/1n-SOJRLCr3bpJybRZD7EiFwNpCR-hVYf_OhLXEaf_Hk/edit?usp=sharing
 
