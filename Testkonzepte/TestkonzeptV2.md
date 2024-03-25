@@ -73,7 +73,7 @@ Konkrete Vorschläge und Bemerkungen zu einzelnen Tests:
 ## GUI Test
 
 Das User Interface wird manuell getestet, es sei denn, eine Funktion wurde bereits als Teil eines anderen Tests automatisch getestet.
-Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden. (Von simulierten Benutzereingaben, zum Beispiel mit Selenium, wird abgesehen.)
+Das Programm soll auf verschiedenen Bildschirmgrössen und Auflösungen getestet werden.
 
 ## Stress-Test
 
