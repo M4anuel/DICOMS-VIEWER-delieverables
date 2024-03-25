@@ -10,11 +10,13 @@
 - [ ] Feedback Delieverables
 - [ ] Feedback Präsentation von Manuel "Demo 1"
 - [ ] Allfällige Fragen zur zweiten Iteration klären
+  - Status Testing
 - [ ] Vorbereitung Planning Game 3
   - Verfügbare Zeit für dritte Iteration bestimmen
   - Traktandenliste für Kundenmeeting erstellen
   - Leitung für Kundenmeeting bestimmen
   - Raum reservieren für Ausarbeitung der Tasks
+  - Frage klären, ob weiterer Branch sinnvoll oder arbeiten mit Releases
 - [ ] Leitung für nächste Sitzung bestimmen
 - [ ] Anderes:
 
