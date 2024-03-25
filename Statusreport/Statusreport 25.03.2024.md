@@ -2,7 +2,7 @@
 
 ## Bericht
 
-Zum jetzigen Zeitpunkt haben wir den Grossteil der Zielsetzungen für diese Iteration erreicht und arbeiten noch an den verbleibenden Aufgaben. Dies umfasst das Schreiben der letzten Tests und das Abschliessen einiger ausstehender Code-Reviews. Besonders erfreulich ist, dass wir nun Bilder korrekt vom Backend laden und in dem vorgesehenen React-Component darstellen können. Zudem ist die Darstellung responsive gestaltet, sodass sich der Container, der das Bild rendert, dynamisch an die Grösse des Browserfensters anpasst, während die Bildgrösse konstant bleibt. Ausserdem haben wir unser Testkonzept aktualisiert, um den neuen Entwicklungen gerecht zu werden. Falls es der Zeitplan zulässt, planen wir, bereits mit der Implementierung der Scrollfunktion zu beginnen, um unser Projekt weiter zu verbessern und für die Demo dynamischer zu gestalten.
+Zum jetzigen Zeitpunkt haben wir den Grossteil der Zielsetzungen für diese Iteration erreicht und arbeiten noch an wenigen verbleibenden Aufgaben. Dies umfasst unter anderem das Schreiben von Tests und das Abschliessen noch ausstehender Code-Reviews. Besonders erfreulich ist, dass wir nun Bilder korrekt von einem JSON Objekt in dem vorgesehenen React-Component darstellen können und dass dieser nun auch responsiv funktioniert. Zudem haben wir unser Testkonzept aktualisiert, um den neuen Entwicklungen gerecht zu werden. Für die Demo wurde auch schon mit der Scrollfunktion experimentiert, um die Präsentation interaktiver zu gestalten.
 
 ### Projektstatus
 
