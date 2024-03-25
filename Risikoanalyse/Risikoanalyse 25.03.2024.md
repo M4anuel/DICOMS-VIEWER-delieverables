@@ -2,8 +2,8 @@
 
 | Risiko Beschreibung                                                                                  | Eintritts-wahrscheinlichkeit | Gewichtung                                                                                                  | Gegenmassnahme                                                            |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Meeting mit Kunden wird nicht genügend dokumentiert und Details werden vergessen                                 | gross                   | klein                                                                                                   | Beim Kunden Nachfragen und dann unbedingt besser Protokollführen |  
-
+| Meeting mit Kunden wird nicht genügend dokumentiert und Details werden vergessen                                 | gross                   | klein                                   | Beim Kunden Nachfragen und dann unbedingt besser Protokollführen |  
+| Man denkt nicht an alle Test Cases/ Edge Cases                             | mittel                   | klein                                   | Fehler beheben falls durch die Vergessenen Cases Errors passierten oder sonst keine Gegenmassnahme nötig |  
 
 **Bewertungsraster:**
 
