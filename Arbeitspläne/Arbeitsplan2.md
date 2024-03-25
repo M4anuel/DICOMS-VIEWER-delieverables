@@ -12,6 +12,6 @@
 | T18    | Responsiveness of component                          | Roger, Michael | 27.03.24 | T13 (, T17)  | in progress |
 | T19    | "Toolbar"/menu (without functionality)               | Laura          | 27.03.24 | T9, T13      | in progress |
 | T21    | Demo 1 vorbereiten und halten                        | Manuel         | 27.03.24 | T13-18       | in progress |
-| T22    | Testkonzept V2 schreiben                             | Laura, Roger   | 27.03.24 | -            | in progress |
+| T22    | Testkonzept V2 schreiben                             | Laura, Roger   | 27.03.24 | -            | done |
 
 **tbd**: to be defined
