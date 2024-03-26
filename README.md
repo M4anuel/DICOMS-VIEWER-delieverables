@@ -16,7 +16,7 @@
 - code tested
 - branch merged
 
-## [Arbeitsplan](https://trello.com/b/atzUnddg/pse-dicom-viewer)
+## [Work plan](https://trello.com/b/atzUnddg/pse-dicom-viewer)
 
-## [Iterationsanalysen](https://docs.google.com/document/d/11QXwVEx0RP5y9Fw0OtGMUhY0bP0oAUfU8dR-FS_nMsk/edit?usp=sharing) 
+## [Iteration analyses](https://docs.google.com/document/d/11QXwVEx0RP5y9Fw0OtGMUhY0bP0oAUfU8dR-FS_nMsk/edit?usp=sharing) 
 contains: Review and suggestions for improvement for next iteration, technological challenges and internal communication, time spent per person
