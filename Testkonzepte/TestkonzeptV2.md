@@ -8,18 +8,18 @@ Unit Tests werden durchgeführt. Die Software wird sich aus den folgenden Kompon
 
 - ImageViewerContainer
   - ImageViewerContainer.js
-  - ImageViewerContainer.Test.js
+  - ImageViewerContainer.test.js
   - PaintWidget
     - PaintWidget.js
-    - PaintWidget.Test.js
+    - PaintWidget.test.js
     - index.js
   - MeasureWidget
     - MeasureWidget.js
-    - MeasureWidget.Test.js
+    - MeasureWidget.test.js
     - index.js
   - Toolbar
     - Toolbar.js
-    - Toolbar.Test.js
+    - Toolbar.test.js
     - index.js
 
 Wir definieren in unserem System eine Unit als eine Methode. Methoden, also Units, werden einzeln und unabhängig von anderen Methoden getestet mit erwartetem Output und tatsächlichem Output. Dabei testen wir nicht jede Methode der oben genannten Komponennten, sondern wir fokussieren uns auf Methoden, welche eine gewisse Komplexität haben. Methoden welche nur einen einzelnen Testfall darstellen, werden weggelassen. Für alle anderen Units werden mindestens drei Testfälle geschrieben.
