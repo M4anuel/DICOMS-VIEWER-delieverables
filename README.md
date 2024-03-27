@@ -14,6 +14,7 @@
 ## Tasks done definition:
 - requirements of task met
 - code tested
+- code reviewed
 - branch merged
 
 ## [Work plan](https://trello.com/b/atzUnddg/pse-dicom-viewer)
