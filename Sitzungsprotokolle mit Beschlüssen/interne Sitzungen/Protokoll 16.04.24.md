@@ -28,6 +28,7 @@
 * Email an Waldo wegen Problemen mit Datendisplay
   * Horos nicht einheitlich (welche Daten displayen?)
   * Probleme mit VTK.js (Workaround mit HTML?)
+* Usability-Test definieren in nächstem Internen Meeting
 * **Nächste Meetings:**
   * **Uhrzeit nächstes internes Meeting: 15:15**
   * Leitung internes Meeting: Michael
