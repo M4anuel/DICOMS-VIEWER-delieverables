@@ -1,9 +1,10 @@
 # Risikoanalyse 22.04.2024
 
-| Risiko Beschreibung                                              | Eintritts-wahrscheinlichkeit | Gewichtung | Gegenmassnahme                                                                         |
-| ---------------------------------------------------------------- | ---------------------------- | ---------- | -------------------------------------------------------------------------------------- |
-| Unklarheiten in den Spezifikationen für Aufgaben der Iteration 4 | klein                        | hoch       | Frühzeitig den Kunden kontaktieren, um alle unklaren Details zu den Aufgaben zu klären |
-| Probleme beim bestimmen der Pixelkoordinaten                     | mittel                       | hoch       | Kunde informieren und um Rat fragen                                                    |
+| Risiko Beschreibung                                                 | Eintritts-wahrscheinlichkeit | Gewichtung | Gegenmassnahme                                                                         |
+| ------------------------------------------------------------------- | ---------------------------- | ---------- | -------------------------------------------------------------------------------------- |
+| Taskaufteilung von Requirements zeigt Unklarheiten in ihnen auf     | mittel                       | mittel     | Frühzeitig den Kunden kontaktieren, um alle unklaren Details zu den Aufgaben zu klären |
+| Probleme beim bestimmen der Pixelkoordinaten                        | mittel                       | hoch       | Kunde informieren und um Rat fragen                                                    |
+| Komplikationen aufgrund kürzlicher Weisheitszahnoperation bei Roger | sehr klein                   | mittel     | Alternative für Vortrag bestimmen oder mit Erlaubnis Vortrag ausfallen lassen; bei Bedarf Iteration kürzen |
 
 **Bewertungsraster:**
 
