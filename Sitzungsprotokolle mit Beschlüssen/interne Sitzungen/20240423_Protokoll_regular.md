@@ -1,6 +1,6 @@
 # Protokoll: [Wochenmeeting | Feedback Deliverables]
 
-| [23.04/15:15 - 18:00]                                                   | Ort: [Engehalde Raum 005]  |
+| [23.04/15:15 - 17:40]                                                   | Ort: [Engehalde Raum 005]  |
 | ----------------------------------------------------------------------- | -------------------------- |
 | Teilnehmer:<br />Laura,<br />Michael,<br />Roger,<br />Manuel,<br />Leo | Entschuldigt:<br />        |
 | Protokollführung: Roger                                                 | Sitzungsleitung: Michael   |
