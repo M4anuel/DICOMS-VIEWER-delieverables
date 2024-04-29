@@ -4,7 +4,7 @@
 | ------------------------------------------------------------------- | ---------------------------- | ---------- | -------------------------------------------------------------------------------------- |
 | Probleme beim bestimmen der Pixelkoordinaten                        | mittel                       | hoch       | Kunde informieren und um Rat fragen                                                    |
 | Zu wenig Zeit im Team um das die Eintritts-wahrscheinlichkeit des vorherigen Risikos zu verringern | hoch | mittel | Kunde informieren und um mehr Zeit fragen                                           |
-| Motivation für das Projekt nimmt ab und führt zu weniger Produktivität| mittel                     | Niedrig    | Motivationsrede(?); "Es ist so wie's ist", "einfach machen", usw.                      |
+| Motivation für das Projekt nimmt ab und führt zu weniger Produktivität| mittel                     | Niedrig    | Motivationsrede(?) "Es isch so wie's isch" (Fisch by LCone)                            |
 
 **Bewertungsraster:**
 
