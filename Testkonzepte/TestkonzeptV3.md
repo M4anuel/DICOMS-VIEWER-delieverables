@@ -92,17 +92,10 @@ Unstimmigkeiten melden.
 
 ## Stress-Test
 
-Die einzige potentiell hohe Belastung, der die Software standhalten muss, ist das Laden und Darstellen einer grossen, 
-fein aufgelösten DICOM Datei. Dabei haben wir keine Anforderungen an Performance, das Programm darf lediglich nicht 
-abstürzen.
+Weil vom Kunden keine Anforderungen an die Performance des Komponenten gestellt wurde, wird im Rahmen des PSE kein Stress-Test durchgeführt.
 
-Dies kann automatisiert getestet werden, indem eine sehr grosse Datei automatisch erzeugt wird (falls noch nicht 
-vorhanden) und dem Datenset hinzugefügt wird. Die Software müsste diese Datei noch laden und darstellen können.
-
-Dieser Stress-Test sollte vor dem 1. Mai stattfinden, um in der Präsentation Qualitätssicherung und Testing die 
-Resultate präsentieren zu können.
-
-Problem: kann auch Hardware-abhängig sein.
+Die einzige potentiell hohe Belastung, der die Software standhalten müsste, ist das Laden und Darstellen einer grossen, 
+fein aufgelösten DICOM Datei. 
 
 ## Usability-Test
 
@@ -111,6 +104,13 @@ oder angenommen werden.
 
 Die Software kann auf Bedienbarkeit getestet werden, indem jedes Mitglied des Teams eine Person ohne Vorkentnisse 
 auswählt, diese die Software benutzen lässt und Rückmeldungen festhält. 
+
+Die Testpersonen sollen 2 Szenarien durchlaufen: einmal soll im regulären Viewer der Eintrag "Name" im Overlay gefunden werden,
+sowie mit dem Bild via Zooming und Panning interagiert werden. Im experimentellen Viewer sollen zudem mithilfe einer Scrollbar 
+die Slices eines Oberkörperscans durchlaufen werden.
+
+Die Szenarien sollen in den 3 Kriterien Zeit, Bedienbarkeit (1 bis 5) und Design (1 bis 5) bewertet werden. Zusätzlich sollen
+Testpersonen jeweils Feedback in Worten zu den Szenarien abgeben.
 
 Dieser Usability-Test sollte vor dem 1. Mai stattfinden, um in der Präsentation Qualitätssicherung und Testing die 
 Resultate präsentieren zu können.
