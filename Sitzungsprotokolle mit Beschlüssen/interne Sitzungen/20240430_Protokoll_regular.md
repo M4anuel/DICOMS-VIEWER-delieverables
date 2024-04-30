@@ -11,10 +11,10 @@
 2. Feedback letzte Woche
 3. Aktueller Stand
 4. Präsentation Roger Feedback
-6. Kurz zur Verwendung von Typescript
-8. was fehlt für diese Iteration noch?
-9. Leitung Kundenmeeting
-10. Leitung nächstes internes Meeting
+5. Task Koordinaten
+6. was fehlt für diese Iteration noch?
+7. Leitung Kundenmeeting
+8. Leitung nächstes internes Meeting
 
 ## Beschlüsse
 
