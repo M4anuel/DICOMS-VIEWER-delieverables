@@ -2,9 +2,8 @@
 
 | Risiko Beschreibung | Eintritts-wahrscheinlichkeit | Gewichtung | Gegenmassnahme |
 | ------------------- | ---------------------------- | ---------- | -------------- |
-|  line widget wird nicht fertig |    klein                |  niedrig | muss in der "Aufräumwoche" nach offiziellem Ende noch fertiggestellt werden |
+|  line widget wird nicht fertig |    mittel                |  mittel | muss in der "Aufräumwoche" nach offiziellem Ende noch fertiggestellt werden |
 |  panning wird nicht fertig |         klein           | niedrig   |  muss in der "Aufräumwoche" nach offiziellem Ende noch fertiggestellt werden  |
-|   |                    |   |  |
 
 **Bewertungsraster:**
 
