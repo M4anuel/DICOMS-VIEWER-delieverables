@@ -3,7 +3,7 @@
 | [21.05/16:00 - ]                                                   | Ort: [Engehalde Raum C] |
 | ----------------------------------------------------------------------- | ----------------------- |
 | Teilnehmer:<br />Laura,<br />Michael,<br />Roger,<br />Manuel,<br />Leo | Entschuldigt:           |
-| Protokollführung: Roger                                                | Sitzungsleitung: Roger |
+| Protokollführung: Michael                                                | Sitzungsleitung: Roger |
 
 ## Traktandenliste:
 
