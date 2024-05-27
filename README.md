@@ -19,5 +19,7 @@
 
 ## [Work plan](https://trello.com/b/atzUnddg/pse-dicom-viewer)
 
-## [Iteration analyses](https://docs.google.com/document/d/11QXwVEx0RP5y9Fw0OtGMUhY0bP0oAUfU8dR-FS_nMsk/edit?usp=sharing) 
-contains: Review and suggestions for improvement for next iteration, technological challenges and internal communication, time spent per person
+## [Time tracking](https://docs.google.com/spreadsheets/d/1IPycRv4u3EO6bEfwquhpxEYFA46-jpQ6JaCoVTkeemI/edit?usp=sharing)
+
+## [Iteration analyses 1&2](https://docs.google.com/document/d/11QXwVEx0RP5y9Fw0OtGMUhY0bP0oAUfU8dR-FS_nMsk/edit?usp=sharing) 
+contains: review and suggestions for improvement for next iteration, technological challenges and internal communication, time spent per person (note: The analyses of the next iterations were made orally and not recorded in writing.)
